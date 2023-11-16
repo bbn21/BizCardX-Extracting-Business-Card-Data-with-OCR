@@ -8,7 +8,6 @@ BizCardX is a Streamlit application that allows users to upload an image of a bu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## ProblemStatement
 
@@ -51,5 +50,3 @@ In addition, the application should allow users to save the extracted informatio
 - EasyOCR
 - PostgreSQL
 
-## License
-This project is licensed under the MIT License.
